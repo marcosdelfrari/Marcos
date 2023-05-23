@@ -10,7 +10,7 @@ export class ProjectsComponent {
     {
       image: './assets/imgs/somoslp.png',
       title: 'Somos Claims Management',
-      description: 'Desenvolvi o site Somos por conta própria, desde o início até a conclusão. Realizei ajustes e melhorias contínuas e integrei um sistema de tradução com o Strapi. A colaboração permitiu que o site se tornasse abrangente e multilíngue. Orgulho-me de ter contribuído para esse projeto e sua evolução.',
+      description: 'Iniciei o desenvolvimento do site Somos por conta própria seguindo os padrões do figma, do início até a conclusão, realizando ajustes e melhorias contínuas. Posteriormente, contei com a colaboração de outros desenvolvedores, formando uma equipe que integrou um sistema de tradução com o Strapi, resultando em um site abrangente e multilíngue. Sinto orgulho por ter contribuído para esse projeto e sua evolução.',
       tech: 'Angular 9 & Strapi',
       live: 'https://somos.us/en-US',
       repo: ''
