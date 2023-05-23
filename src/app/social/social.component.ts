@@ -18,7 +18,7 @@ export class SocialComponent {
       description: 'LINKEDIN'
     },
     {
-      link: 'https://www.wa.me/5531994369932',
+      link: 'https://wa.me/5531994369932',
       image: 'assets/imgs/wpp.png',
       description: 'WHATSAPP'
     }

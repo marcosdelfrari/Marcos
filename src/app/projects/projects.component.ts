@@ -35,23 +35,29 @@ export class ProjectsComponent {
       tech: 'Angular 9 ',
       live: 'https://creative-frangipane-b5922a.netlify.app/',
       repo: 'https://github.com/marcosdelfrari/ClimaTempo'
-    }
+    }, {
+      image: './assets/imgs/mm.png',
+      title: 'Mousinho & Martins',
+      description: 'Desenvolvi uma landing page avançada em Angular 9 para o escritório Mousinho & Martins. O objetivo era fornecer uma experiência envolvente aos visitantes, transmitindo profissionalismo e destacando os serviços oferecidos pelo escritório. O resultado é uma landing page sofisticada e eficaz em atrair e envolver os usuários.',
+      tech: 'Angular 9 ',
+      live: 'https://test.mousinhomartins.com/',
+    },
 
   ];
 
   words = [
     {
+      image: './assets/imgs/zech.png',
+      title: 'Zech',
+      description: 'Desenvolvi o site ZECH, usando WordPress e Elementor, seguindo o design do Figma. Destaquei os recursos de proteção familiar de forma envolvente, com interface intuitiva. Alinhado com a identidade da marca, entreguei um site eficaz, promovendo tranquilidade e segurança às famílias. ',
+      tech: 'Wordpress & Elementor',
+      live: 'https://zech.com.br/',
+    }, {
       image: './assets/imgs/pg.png',
       title: 'Pogust Goodhead',
       description: 'No projeto em WordPress, utilizei o Elementor para criar um site funcional para um escritório britânico. Implementei um recurso multilíngue para atender a um público internacional. Trabalhei em estreita colaboração com a equipe, garantindo o alinhamento do design e estrutura com a identidade da marca. Satisfeito com o resultado final e orgulhoso de ter contribuído para o sucesso do site.',
       tech: 'Wordpress & Elementor',
       live: 'https://pogustgoodhead.com/',
-    }, {
-      image: './assets/imgs/mm.png',
-      title: 'Mousinho & Martins',
-      description: 'Desenvolvi um site funcional para um escritório britânico usando o Elementor no projeto em WordPress. Recurso multilíngue implementado para alcance internacional. Colaboração estreita para garantir design alinhado à identidade da marca. Satisfeito com o resultado e orgulhoso da contribuição ao sucesso do site.',
-      tech: 'Wordpress & Elementor',
-      live: 'https://test.mousinhomartins.com/',
     },
     {
       image: './assets/imgs/diesel.png',
@@ -78,13 +84,7 @@ export class ProjectsComponent {
       description: 'No projeto WordPress, utilizei o Elementor para criar um site funcional para escritório britânico. Recurso multilíngue implementado para audiência internacional. Colaboração próxima garantiu alinhamento de design e estrutura com a identidade da marca. Satisfeito com o resultado e orgulhoso por contribuir para o sucesso do site.',
       tech: 'Wordpress & Elementor',
       live: 'https://casoinglesmariana.com.br/',
-    }, {
-      image: './assets/imgs/zech.png',
-      title: 'Zech',
-      description: 'Desenvolvi o site ZECH, usando WordPress e Elementor, seguindo o design do Figma. Destaquei os recursos de proteção familiar de forma envolvente, com interface intuitiva. Alinhado com a identidade da marca, entreguei um site eficaz, promovendo tranquilidade e segurança às famílias. ',
-      tech: 'Wordpress & Elementor',
-      live: 'https://zech.com.br/',
-    },
+    }
   ];
 
   itemfg = [
