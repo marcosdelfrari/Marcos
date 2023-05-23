@@ -55,33 +55,33 @@ export class ProjectsComponent {
     }, {
       image: './assets/imgs/pg.png',
       title: 'Pogust Goodhead',
-      description: 'No projeto em WordPress, utilizei o Elementor para criar um site funcional para um escritório britânico. Implementei um recurso multilíngue para atender a um público internacional. Trabalhei em estreita colaboração com a equipe, garantindo o alinhamento do design e estrutura com a identidade da marca. Satisfeito com o resultado final e orgulhoso de ter contribuído para o sucesso do site.',
+      description: 'Desenvolvi um site funcional no WordPress utilizando o Elementor, seguindo fielmente o design do Figma, e implementei recursos multilíngues para atender a um público internacional. Trabalhei em colaboração com a equipe para garantir o alinhamento do design e estrutura, resultando em um site de sucesso.',
       tech: 'Wordpress & Elementor',
       live: 'https://pogustgoodhead.com/',
     },
     {
       image: './assets/imgs/diesel.png',
       title: 'My Diesel Claim',
-      description: 'Utilizei o Elementor no projeto WordPress para criar um site funcional para escritório britânico. Recurso multilíngue implementado para audiência global. Colaboração próxima para alinhar design e estrutura à identidade da marca. Satisfação com o resultado final e orgulho na contribuição ao sucesso do site.',
+      description: 'Utilizei o Elementor no WordPress para criar um site seguindo o design detalhado no Figma. Integrei recursos multilíngues para alcançar um público global. Trabalhando em equipe, assegurei que o design e a estrutura estivessem alinhados, resultando em um site bem-sucedido.',
       tech: 'Wordpress & Elementor',
       live: 'https://mydieselclaim.com',
     },
     {
       image: './assets/imgs/nhs.png',
       title: 'NHS Lothian',
-      description: 'No projeto WordPress, criei um site funcional para escritório britânico usando o Elementor. Recurso multilíngue para audiência internacional. Colaboração estreita para alinhar design e estrutura à identidade da marca. Satisfação com o resultado e orgulho de ter contribuído para o sucesso do site.',
+      description: 'Desenvolvi um site no WordPress usando o Elementor, respeitando rigorosamente o design definido no Figma. Adicionei recursos multilíngues para atender a um público internacional. Colaborei com a equipe para garantir a integração perfeita do design e da estrutura, alcançando um resultado final satisfatório.',
       tech: 'Wordpress & Elementor',
       live: 'https://mydieselclaim.com',
     }, {
       image: './assets/imgs/mercedes.png',
       title: 'Mercedes Diesel',
-      description: 'Desenvolvi um site funcional para um escritório britânico no projeto WordPress, utilizando o Elementor. Implementei recurso multilíngue para público internacional. Colaboração próxima para garantir alinhamento de design e estrutura com a identidade da marca. Satisfeito com o resultado final e orgulhoso da contribuição para o sucesso do site.',
+      description: 'No projeto em WordPress, utilizei o Elementor para implementar um site, seguindo cuidadosamente o design proposto no Figma. Integrei recursos multilíngues para atingir um público diversificado. Trabalhei em estreita colaboração com a equipe, garantindo que o design e a estrutura estivessem alinhados e obtendo um resultado final de sucesso.',
       tech: 'Wordpress & Elementor',
       live: 'https://mercedesclaimlawyers.com/',
     }, {
       image: './assets/imgs/mariana.png',
       title: 'Caso Mariana',
-      description: 'No projeto WordPress, utilizei o Elementor para criar um site funcional para escritório britânico. Recurso multilíngue implementado para audiência internacional. Colaboração próxima garantiu alinhamento de design e estrutura com a identidade da marca. Satisfeito com o resultado e orgulhoso por contribuir para o sucesso do site.',
+      description: 'Desenvolvi um site no WordPress utilizando o Elementor, seguindo fielmente o design do Figma. Implementei recursos multilíngues para alcançar uma audiência internacional. Colaborei de perto com a equipe para garantir o alinhamento do design e da estrutura, resultando em um site de destaque.',
       tech: 'Wordpress & Elementor',
       live: 'https://casoinglesmariana.com.br/',
     }
