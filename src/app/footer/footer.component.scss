@@ -1,0 +1,23 @@
+@import 'src/styles.scss';
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-repeat: repeat-x;
+    background-position: bottom ;
+    height: 127px;
+
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+}
+
+p {
+    font-family: $font-secondary, sans-serif;
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 2px;
+}

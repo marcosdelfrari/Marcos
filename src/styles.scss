@@ -1,1 +1,40 @@
-/* You can add global styles to this file, and also import other style files */
+$font-primary: "Pressstart";
+$font-secondary: "Pixelart";
+$font-tertiary: "Pixelart";
+
+@font-face {
+    font-family: $font-secondary;
+    src: url("assets/fonts/ARCADECLASSIC.TTF") format("truetype");
+}
+
+@font-face {
+    font-family: $font-primary;
+    src: url("assets/fonts/PressStart.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: $font-tertiary;
+    src: url("assets/fonts/Minecraftia-Regular.ttf") format("truetype");
+}
+
+* {
+    cursor: url(assets/imgs/cursor-default.svg), auto;
+}
+
+a img:hover,
+a:hover {
+    cursor: url(assets/imgs/cursor-pointer.svg), auto;
+}
+
+body {
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+:focus-visible {
+    outline: none
+}

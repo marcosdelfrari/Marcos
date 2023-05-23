@@ -1,0 +1,35 @@
+<h1 id="angular">Angular</h1>
+<div class="container">
+    <div class="item" *ngFor="let item of items">
+        <div class="image-container">
+            <img [src]="item.image" alt="Imagem">
+        </div>
+        <div class="text-container">
+            <h2 class="titulo">{{ item.title }}</h2>
+            <p class="descricao">{{ item.description }}</p>
+            <p class="tech">{{ item.tech }}</p>
+            <div class="links">
+                <a [href]="item.live" target="_blank" class="link-ao-vivo">Visualizar ao Vivo</a>
+                <a [href]="item.repo" target="_blank" class="link-repositorio" [ngClass]="{ 'disabled': !item.repo }">Repositório</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h1 id="wordpress">Wordpress</h1>
+<div class="container">
+    <div class="word" *ngFor="let word of words">
+        <div class="image-container">
+            <img [src]="word.image" alt="Imagem">
+        </div>
+        <div class="text-container">
+            <h2 class="titulo">{{ word.title }}</h2>
+            <p class="descricao">{{ word.description }}</p>
+            <p class="tech">{{ word.tech }}</p>
+            <div class="links">
+                <a [href]="word.live" target="_blank" class="link-ao-vivo">Visualizar ao Vivo</a>
+              </div>
+        </div>
+    </div>
+</div>
+

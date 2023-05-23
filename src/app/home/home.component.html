@@ -1,0 +1,8 @@
+<app-header (keydown)="handleKeyDown($event)"></app-header>
+<div [ngStyle]="{'background-image': 'url(assets/imgs/lava.png)'}"  class="divisor"></div>
+<div class="container">
+<app-bio></app-bio>
+<app-options #options id="options"></app-options>
+<app-projects></app-projects>
+<app-social></app-social></div>
+<app-footer></app-footer>
